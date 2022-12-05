@@ -15,7 +15,7 @@ GET `/getProductInfoById?id={id}`:
 
 > Example `/getProductInfoById?id=3`:
 
-````json
+```json
 {
     "success": true,
     "data": {
@@ -35,7 +35,7 @@ Install the dependencies and devDependencies, update `/config.js` values and sta
 cd mysql-api-example
 npm i
 npm start run
-````
+```
 
 ## License
 
