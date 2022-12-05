@@ -23,7 +23,8 @@ GET `/getProductInfoById?id={id}`:
         "name": "Biscuit",
         "price": 3
     }
-}```
+}
+```
 
 ## Installation
 
